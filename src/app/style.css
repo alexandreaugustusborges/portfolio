@@ -1,0 +1,16 @@
+:root {
+  --bg-color-main: #16064c;
+  --text-color-main: #eeeeee;
+}
+.container {
+  background-color: var(--bg-color-main);
+}
+
+.txt_apresentacao {
+  color: var(--text-color-main);
+}
+
+.imagem_pessoal {
+  width: 30%;
+  height: 30%;
+}
